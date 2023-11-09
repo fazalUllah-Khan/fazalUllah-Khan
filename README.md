@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **AWS Cloud Operations, AWS Architecture**
+- 💬 Ask me about **Radio Teclnologies (5G, LTE, UMTS), RAN automation, AWS Cloud Operations, AWS Architecture**
 
 - 📫 How to reach me **fazleejan@gmail.com**
 
