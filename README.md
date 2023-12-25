@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazal Ullah Khan</h1>
-<h3 align="center">A passionate Cloud Engineer</h3>
+<h3 align="center">A passionate Cloud & DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **Cloud Technologies & Automation, infrastructure automation, DevOps**
 
