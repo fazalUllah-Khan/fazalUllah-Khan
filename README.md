@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fazal Ullah Khan</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Cloud Technologies & Automation, infrastructure automation, DevOps**
+- 🌱 I’m skilled in **Cloud Technologies & Automation, infrastructure automation, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fazalUllah-Khan](https://github.com/fazalUllah-Khan)
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **Radio Teclnologies (5G, LTE, UMTS), RAN automation, AWS Cloud Operations, AWS Architecture**
+- 💬 Ask me about **AWS cloud operations, Data migration, Cloud devOps , Infrasyrcute design and implementaion using IaaC liek terraform, opentofu** **Radio Teclnologies (5G, LTE, UMTS), RAN automation, AWS Cloud Operations, AWS Architecture**
 
 - 📫 How to reach me **fazleejan@gmail.com**
 
