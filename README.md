@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fazalUllah-Khan](https://github.com/fazalUllah-Khan)
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [LinkedIn](LinkedIn) , https://medium.com/@fazleejan
 
 - 💬 Ask me about **AWS cloud operations, Data migration, Cloud devOps , Infrasyrcute design and implementaion using IaaC liek terraform, opentofu** **, RAN automation, AWS Cloud Operations, AWS Architecture**
 
