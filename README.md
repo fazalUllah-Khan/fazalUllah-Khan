@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn) , https://medium.com/@fazleejan
 
-- 💬 Ask me about **Cyber Security , AWS cloud operations, Data migration, Cloud devOps , Infrasyrcute design and implementaion using IaaC like terraform, opentofu** **, RAN automation, AWS Cloud Operations, AWS Architecture**
+- 💬 Ask me about **Cyber Security , Digital Forensics, Pentesting, Threat Intell, AWS cloud operations, Data migration, Cloud devOps , Infrastructure design and implementaion using IaaC like terraform, opentofu** **, RAN automation, AWS Cloud Operations, AWS Architecture**
 
 - 📫 How to reach me **fazleejan@gmail.com**
 
