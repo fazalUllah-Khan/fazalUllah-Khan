@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazal Ullah Khan</h1>
-<h3 align="center">A passionate Cloud  Cyberber Security & DevOps   Engineer</h3>
+<h3 align="center">A passionate Cloud  Cyber Security & DevOps   Engineer</h3>
 
 - 🌱 I’m skilled in **Cloud Technologies & Automation, infrastructure automation, Security and DevOps**
 
